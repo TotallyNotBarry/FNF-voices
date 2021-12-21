@@ -1,0 +1,18 @@
+Sup,I'm Barry and I'm here to explain you how to use Soundfonts!
+
+So,say hi to my soundfonts,I'm gonna explain a little about what's the difference between a soundfont and an .fst file,
+
+Compared to what a Preset can do,you can put more than one character inside a soundfont,
+because we are not talking about a scale,that is every sound sample put everything together inside one audio file,
+we're talking about every sample already positioned in a note of the piano,plus the fact that since it's only one sample at the time,we can loop it.
+
+Alright alright,so that was a brief explanation about soundfonts,now let's go on how to use them
+
+If you know already how to use a Preset then this process it's kinda the same,
+all you gotta do is grab the soundfont you wanna use,drag and drop it in open the channel rack in FL Studio,
+after doing that,DirectWave will show up,telling you that you can enable 'Monolithic mode' in DirectWave's options,
+if you don't do that after saving your flp next time you open it all the samples will be gone,
+you can fix this by just drag and drop the same soundfont in the channel you put it in earlier,
+and you're done.
+
+You're probably someone I know so if you want me to explain this again just DM me in my Discord Barry#3381
