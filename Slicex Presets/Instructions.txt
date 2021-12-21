@@ -1,0 +1,10 @@
+Sup,I'm Barry and I'm here to explain you how to use Slicex Presets!
+
+So what I assume you're probably looking now all my .fst files,
+these are really easy to use because I did all the work for you already,
+all you gotta do now is open the channel rack in FL Studio,
+after grabbing the .fst drag it inside the channel rack and then it will open Slicex,
+when Slicex shows up all you're gonna see inside it is the chromatic scale of the character you chose,
+and you're basically done at this point,save it as a preset in Slicex so you can use it in just few clicks after that.
+
+You're probably someone I know so if you want me to explain this again just DM me in my Discord Barry#3381
